@@ -15,6 +15,7 @@
 		E90496D11BB59BA000D2AC33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E90496CF1BB59BA000D2AC33 /* LaunchScreen.storyboard */; };
 		E90496DC1BB59BA000D2AC33 /* XcodeGitTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90496DB1BB59BA000D2AC33 /* XcodeGitTestTests.swift */; };
 		E90496E71BB59BA000D2AC33 /* XcodeGitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90496E61BB59BA000D2AC33 /* XcodeGitTestUITests.swift */; };
+		E90496F51BB59C0D00D2AC33 /* Test123.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90496F41BB59C0D00D2AC33 /* Test123.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E90496E21BB59BA000D2AC33 /* XcodeGitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeGitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E90496E61BB59BA000D2AC33 /* XcodeGitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeGitTestUITests.swift; sourceTree = "<group>"; };
 		E90496E81BB59BA000D2AC33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E90496F41BB59C0D00D2AC33 /* Test123.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test123.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E90496CF1BB59BA000D2AC33 /* LaunchScreen.storyboard */,
 				E90496D21BB59BA000D2AC33 /* Info.plist */,
 				E90496CA1BB59BA000D2AC33 /* XcodeGitTest.xcdatamodeld */,
+				E90496F41BB59C0D00D2AC33 /* Test123.swift */,
 			);
 			path = XcodeGitTest;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				E90496CC1BB59BA000D2AC33 /* XcodeGitTest.xcdatamodeld in Sources */,
 				E90496C61BB59BA000D2AC33 /* ViewController.swift in Sources */,
+				E90496F51BB59C0D00D2AC33 /* Test123.swift in Sources */,
 				E90496C41BB59BA000D2AC33 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
